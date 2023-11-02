@@ -1,0 +1,24 @@
+{
+  "name": "ecommerce-project-server-practice",
+  "version": "1.0.0",
+  "description": "this is practice project inspire by programming hero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reactjs",
+    "nodejs",
+    "mongodb",
+    "expressjs",
+    "firebase",
+    "mongoose",
+    "jwt",
+    "react-router",
+    "and",
+    "various",
+    "library"
+  ],
+  "author": "shiham",
+  "license": "ISC"
+}
